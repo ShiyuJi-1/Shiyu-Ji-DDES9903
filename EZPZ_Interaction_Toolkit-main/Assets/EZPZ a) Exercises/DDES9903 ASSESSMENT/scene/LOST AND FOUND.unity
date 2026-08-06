@@ -740,18 +740,18 @@ MonoBehaviour:
   owner: Emily Chen
   description: 'This book belongs to Emily Chen.
 
-    
 
-    She first read The
-    Little Prince in high school, and its story has stayed with her ever since. Whenever
+
+    She first read The Little
+    Prince in high school, and its story has stayed with her ever since. Whenever
     life feels overwhelming, she opens a random page to remind herself to slow down
     and appreciate the little things.
 
-    
 
-    The handwritten notes between
-    the pages reflect her thoughts and experiences over the years, making this book
-    deeply personal.'
+
+    The handwritten notes between the pages
+    reflect her thoughts and experiences over the years, making this book deeply
+    personal.'
   isPlayerBook: 0
 --- !u!114 &334573909
 MonoBehaviour:
@@ -1444,18 +1444,17 @@ MonoBehaviour:
   owner: Olivia Parker
   description: 'This book belongs to Olivia Parker.
 
-    
 
-    As a Psychology
-    student, Olivia enjoys understanding how people think, learn and interact with
-    one another. She often fills the margins with handwritten notes, questions and
-    reflections from her lectures.
 
-    
+    As a Psychology student,
+    Olivia enjoys understanding how people think, learn and interact with one another.
+    She often fills the margins with handwritten notes, questions and reflections
+    from her lectures.
 
-    The highlighted pages and colourful
-    sticky notes show how much time and effort she has invested in this book throughout
-    the semester.'
+
+
+    The highlighted pages and colourful sticky notes show
+    how much time and effort she has invested in this book throughout the semester.'
   isPlayerBook: 0
 --- !u!114 &758589989
 MonoBehaviour:
@@ -1709,13 +1708,13 @@ MonoBehaviour:
   owner: Daniel Carter
   description: 'This book belongs to Daniel Carter.
 
-    
 
-    His father gave
-    him this novel on his tenth birthday, making it the first book he ever truly
-    loved. It sparked his passion for reading and has stayed with him ever since.
 
-    
+    His father gave him this
+    novel on his tenth birthday, making it the first book he ever truly loved. It
+    sparked his passion for reading and has stayed with him ever since.
+
+
 
     The
     worn cover and folded pages reflect years of memories, making it one of his most
@@ -3409,13 +3408,13 @@ MonoBehaviour:
   owner: Noah Williams
   description: 'This journal belongs to Noah Williams.
 
-    
 
-    Every page tells
-    the story of a different journey. Inside are hand-drawn sketches, photographs,
-    ticket stubs and personal notes collected while travelling across Australia.
 
-    
+    Every page tells the
+    story of a different journey. Inside are hand-drawn sketches, photographs, ticket
+    stubs and personal notes collected while travelling across Australia.
+
+
 
     Rather
     than recording places, the journal captures moments, friendships and unforgettable
@@ -3608,22 +3607,22 @@ MonoBehaviour:
   owner: ShiyuJI
   description: 'This book belongs to you.
 
-    
 
-    You took it to the university
-    library while working on an important assignment. It contains your lecture notes,
-    highlighted pages, and ideas collected throughout the semester.
 
-    
+    You took it to the university library
+    while working on an important assignment. It contains your lecture notes, highlighted
+    pages, and ideas collected throughout the semester.
 
-    When
-    you returned home, you realized it was missing. Without it, finishing your assignment
-    would be much harder.
 
-    
 
-    You hope someone has handed it in to the Lost
-    and Found office.'
+    When you returned
+    home, you realized it was missing. Without it, finishing your assignment would
+    be much harder.
+
+
+
+    You hope someone has handed it in to the Lost and Found
+    office.'
   isPlayerBook: 1
 --- !u!65 &1770437177
 BoxCollider:
