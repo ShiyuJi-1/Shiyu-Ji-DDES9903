@@ -21,15 +21,14 @@ public class BookPickup : MonoBehaviour
     private void OnMouseDown()
     {
         if (bookData == null)
-        {
             return;
-        }
 
         if (bookData.isPlayerBook)
         {
             Debug.Log("You picked up your book!");
 
-            // 书消失，代表已经拿走
+            GameManager.HasBook = true;
+
             gameObject.SetActive(false);
         }
         else

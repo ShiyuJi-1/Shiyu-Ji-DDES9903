@@ -36,18 +36,25 @@ public class DoorUIManager : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    // 返回 HOME
     public void GoToHome()
     {
         Time.timeScale = 1f;
+
+        // 告诉 HOME：这是返回，不是第一次进入
+        GameManager.ReturnedHome = true;
+
         SceneManager.LoadScene("HOME");
     }
 
+    // 去教室
     public void GoToClassroom()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("CLASSROOM");
     }
 
+    // 去 Lost and Found
     public void GoToLost()
     {
         Time.timeScale = 1f;
